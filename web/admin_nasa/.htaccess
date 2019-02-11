@@ -1,4 +1,4 @@
-AuthName "Page d'administration protégée"
+AuthName "admin admin t'as capte"
 AuthType Basic
 AuthUserFile "/var/www/html/admin_nasa/.htpasswd"
 Require valid-user
